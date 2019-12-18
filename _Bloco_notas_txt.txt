@@ -1,0 +1,58 @@
+Protococlo NCP
+Protocolo FTP
+Protocolo DNS
+Protocolo TCP/IP
+HTTP
+IP
+DNS
+
+
+MODULAÇÃO E DEMODULAÇÃO = MODEM
+
+<WBR/> (quebra de texto)
+&shy; (infenização rapida
+<b> </b> negrito
+<i> </i> italico
+<em> </em> enfase
+<sup> </sup>  supercrita
+<sub>  </sub> subescrita
+<code> </code> semantica (mostra qe esta mostrando o codigo)
+<pre> </pre> pre formatado
+ background-color: hsl(hue, saturation, lightness);     (cores)
+ background-color: hsla(hue, saturation, lightness, alpha);      (cores)
+<figure> </figure>  semantica das fotos
+<figcaption></figcaption> dentro de figure serve para colocar legendas das fotos
+Padrão de referenciar na linguagem CSS ex: tag.nomedaclasse{}
+ol - Listas ordenadas
+ul - listas não ordenadas
+li - lista de itens
+section - sessão
+aside - contedo lateral
+footer - rodapé
+
+
+
+<h1>Simbolos especiais</h1>
+
+
+<p>
+&alt; = menor que
+&gt; = maior que
+&le; = menor igual
+&ge; = maior igual
+
+<br/>
+
+<h1>Simbolos monetarios</h1>
+
+&pound; = Libra
+&yen; = Iene Japones
+&euro; = Euro
+
+<br>
+
+&copy; = icopywrite
+&reg; = marca registrada 
+&trade; TM
+
+e tem um muito na internet
